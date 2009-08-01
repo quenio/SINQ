@@ -1,3 +1,4 @@
+// Copyright 2009 Quenio dos Santos. All rights reserved.
 package org.sinq.examples
 
 import scala.collection.mutable
@@ -18,15 +19,15 @@ object OrderingExample {
       //             select s.ToUpper();
       val query = for(s <- names if s.length >= 5) yield s.toUpperCase()
       
-      val sortedQuery = query.sortBy(s => (s.length, s))
+      val orderedQuery = query.orderBy(s => (s.length, s))
       
-      for(item <- sortedQuery) {
+      for(item <- orderedQuery) {
         println(item);
       }
       println("---")
       
       nameSet += "Jonas";
-      for(item <- sortedQuery) {
+      for(item <- orderedQuery) {
         println(item);
       }
   }

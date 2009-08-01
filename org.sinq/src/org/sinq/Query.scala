@@ -1,9 +1,10 @@
+// Copyright 2009 Quenio dos Santos. All rights reserved.
 package org.sinq
 
 case class Query[T, S, K <% Ordered[K]](
-  dataSet: DataSet[T], filter: T => Boolean, selector: T => S, sortKey: S => K) {
-
-  def map[R](newSelector: T => R) = Query(dataSet, filter, newSelector, null)
+  dataSet: DataSet[T], filter: T => Boolean, selector: T => S, sortKey: S => K, desc: Boolean) {
+  
+  def map[R](newSelector: T => R) = Query(dataSet, filter, newSelector, null, false)
   
   def foreach(block: S => Unit) {
     val s = selection
@@ -16,7 +17,9 @@ case class Query[T, S, K <% Ordered[K]](
     }
   }
   
-  def sortBy[N <% Ordered[N]](newKey: S => N) = Query(dataSet, filter, selector, newKey)
+  def orderBy[N <% Ordered[N]](newKey: S => N) = Query(dataSet, filter, selector, newKey, false)
+
+  def orderByDesc[N <% Ordered[N]](newKey: S => N) = Query(dataSet, filter, selector, newKey, true)
 
   private def filtered = 
     if (filter == null) 
@@ -36,6 +39,8 @@ case class Query[T, S, K <% Ordered[K]](
     }
   
   private def sort(list: List[S]) = {
-    (list map sortKey zip list) sort (_._1 < _._1) map (_._2)
+    var join = (list map sortKey zip list) 
+    var sorted = if (desc) join sort (_._1 > _._1) else join sort (_._1 < _._1)
+    sorted map (_._2)
   }
 }

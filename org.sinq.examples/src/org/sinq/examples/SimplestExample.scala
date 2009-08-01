@@ -1,3 +1,4 @@
+// Copyright 2009 Quenio dos Santos. All rights reserved.
 package org.sinq.examples
 
 import scala.collection.mutable
