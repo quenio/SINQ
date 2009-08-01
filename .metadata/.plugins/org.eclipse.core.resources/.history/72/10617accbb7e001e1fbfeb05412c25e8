@@ -1,0 +1,19 @@
+package org.sinq
+
+case class Query[T, S](dataSet: DataSet[T], filter: T => Boolean, selector: T => S) {
+
+  def map[S](selector: T => S) = Query(dataSet, filter, selector)
+  
+  def foreach(block: S => Unit) = {
+    val filtered = if (filter == null) 
+      null
+    else 
+      dataSet.where(filter) 
+    val selection = if (filtered == null)
+      filtered.filter(selector)
+    else
+      dataSet.select(selector)
+      .foreach(block)
+  }
+
+}

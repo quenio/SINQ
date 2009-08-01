@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"tree: def map(selector: scala.Function1[T, S]) = new Query(this, selector) java.lang.AssertionError: assertion failed: Product",1249144170457
+error,log,,,"doTyper crash",1249144170458
+error,log,,,"scala.tools.nsc.symtab.Symbols$CyclicReference: illegal cyclic reference involving method map",1249144170459
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144171305
+error,log,,,"Build compiler (scalac) crashed",1249144171446
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144179130
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144187227
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144188432
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249144188486
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144203823
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144217861
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144245967
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144258941
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144271292
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144273137
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249144273186
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144279088
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144283808
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144289377
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144302898
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144313375
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144319461
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144348225
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144353144
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249144353607

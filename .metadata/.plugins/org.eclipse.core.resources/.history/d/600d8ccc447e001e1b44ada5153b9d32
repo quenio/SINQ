@@ -1,0 +1,12 @@
+package org.sinq
+
+import scala.collection._
+
+class Query[T](val i: Iterable[T], expr: T => Any) {
+  
+  def this(expr: T => Any)
+
+  implicit def iterableToQuery(i: Iterable[T]): Query[T] = new Query(i)
+  
+  def map(expr: T => Any) = 
+}

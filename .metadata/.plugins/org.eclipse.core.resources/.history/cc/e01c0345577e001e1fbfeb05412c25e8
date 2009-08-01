@@ -1,0 +1,28 @@
+package org.sinq.examples
+
+import scala.collection.mutable
+import org.sinq._
+
+object SimplestExample {
+
+  def main(args : Array[String]) : Unit = {
+      val names = mutable.Set("Burke", "Connor", "Frank");
+      val nameDataSet = DataSet(names);
+
+      // C# classic example:
+      // var query = from s in names
+      //             select s;
+      val query = for(s <- nameDataSet) yield s; 
+      
+      for(item <- query) {
+        println(item);
+      }
+      println("---")
+      
+      names += "Queni";
+      for(item <- query) {
+        println(item);
+      }
+  }
+  
+}

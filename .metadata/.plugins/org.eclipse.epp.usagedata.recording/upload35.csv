@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094257946
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094260810
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094261838
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1249094274436
+error,log,,,"Error in JDT Core during reconcile",1249094274437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094281488
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094294647
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094300123
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094307923
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094312156
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094315811
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094370661
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094377294
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249094390230
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249094391562
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094392485
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094400409
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1249094411977
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249094415295
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1249094420663
+error,log,,,"Error in JDT Core during reconcile",1249094420664
+error,log,,,"Save Failed",1249094420690
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094420746
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094420782
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1249094421671

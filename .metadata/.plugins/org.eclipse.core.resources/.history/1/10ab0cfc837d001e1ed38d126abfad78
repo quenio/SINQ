@@ -1,0 +1,5 @@
+package org.sinq.examples
+
+object ClassicExample {
+  def main(args : Array[String]) : Unit = {}
+}

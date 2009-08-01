@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012637412
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012655981
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012698598
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012699993
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012702355
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012703813
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012707574
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012709294
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012760263
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012767168
+error,log,,,"AT: source-/Users/quenio/Workspaces/SINQ/org.sinq.examples/src/org/sinq/examples/ClassicExample.scala,line-1,offset=8",1249012774654
+error,log,,,"AT: source-/Users/quenio/Workspaces/SINQ/org.sinq.examples/src/org/sinq/examples/ClassicExample.scala,line-1,offset=12",1249012774655
+error,log,,,"AT: source-/Users/quenio/Workspaces/SINQ/org.sinq.examples/src/org/sinq/examples/ClassicExample.scala,line-1,offset=17",1249012774655
+error,log,,,"AT: source-/Users/quenio/Workspaces/SINQ/org.sinq.examples/src/org/sinq/examples/ClassicExample.scala,line-1,offset=17",1249012774656
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012774807
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1249012784171
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012789691
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012791002
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012858653
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012869559
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249012874937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012885256
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012885926
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012888223
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249012888818

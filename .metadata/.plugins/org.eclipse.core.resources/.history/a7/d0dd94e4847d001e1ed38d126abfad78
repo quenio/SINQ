@@ -1,0 +1,19 @@
+package org.sinq.examples
+
+object ClassicExample {
+  def main(args : Array[String]) : Unit = {
+      val names = Array(
+          "Burke", "Connor", "Frank", 
+          "Everett", "Albert", "George", 
+          "Harris", "David");
+
+      IEnumerable<string> query = from s in names 
+                  where s.Length == 5
+                  orderby s
+                  select s.ToUpper();
+
+      for(item <- query) {
+        println(item);
+      }
+  }
+}

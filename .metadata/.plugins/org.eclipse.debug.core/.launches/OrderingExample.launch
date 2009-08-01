@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="scala.application">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/org.sinq.examples/src/org/sinq/examples/OrderingExample.scala"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.sinq.examples.OrderingExample"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="org.sinq.examples"/>
+</launchConfiguration>

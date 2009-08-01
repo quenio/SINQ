@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Error in JDT Core during reconcile",1249094421674
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094430061
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094432913
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094433670
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094436571
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094442798
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094443555
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094444271
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094447035
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094458304
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1249094465583
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249094469873
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094470878
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094482254
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094483811
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094485403
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1249094486491
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094504512
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094514073
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1249094532047
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094534280
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249094547103
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094555050
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249094555461
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249094555506

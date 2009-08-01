@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.info,sysinfo,,,"mixed mode",1248998807988
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1248998807988
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1248998807988
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1248998807988
+java.vm.specification.version,sysinfo,,,"1.0",1248998807988
+java.vm.vendor,sysinfo,,,"Apple Inc.",1248998807988
+java.vm.version,sysinfo,,,"1.5.0_19-137",1248998807988
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1248998809849
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1248998809855
+closed,view,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.internal.introview",1248998809868
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1248998841121
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1248998845849
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090527,"org.eclipse.ui.views.log",1248998846932
+started,bundle,org.eclipse.pde.ui,3.5.0.v20090528,"org.eclipse.pde.ui",1248998846933
+opened,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1248998847038
+opened,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1248998847068
+activated,perspective,ch.epfl.lamp.sdt.core,2.8.0.r18405-b20090730023507,"ch.epfl.lamp.sdt.core.perspective",1248998847117
+activated,view,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views.ContentOutline",1248998847122
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.perspectives.showPerspective",1248998847134
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.perspectives.showPerspective",1248998847134
+closed,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1248998851285
+closed,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.AllMarkersView",1248998851292
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.window.closePerspective",1248998851295
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1248998864986
+started,bundle,org.eclipse.contribution.weaving.jdt,1.6.4.20090313172428,"org.eclipse.contribution.weaving.jdt",1248998878656

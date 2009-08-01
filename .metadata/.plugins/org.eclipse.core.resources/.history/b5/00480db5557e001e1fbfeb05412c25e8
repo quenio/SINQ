@@ -1,0 +1,5 @@
+package org.sinq
+
+class Query(dataSet: DataSet, expr: ) {
+
+}

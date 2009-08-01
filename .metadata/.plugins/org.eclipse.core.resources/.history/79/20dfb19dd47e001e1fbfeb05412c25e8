@@ -1,0 +1,42 @@
+package org.sinq
+
+case class Query[T, S, K <% Ordered[K]](
+  dataSet: DataSet[T], filter: T => Boolean, selector: T => S, sortKey: S => K) {
+
+  def map[R](newSelector: T => R) = Query(dataSet, filter, newSelector, null)
+  
+  def foreach(block: S => Unit) {
+    val s = selection
+    if (s != null) {
+      if (sortKey == null) {
+        s.foreach(block)
+      } else {
+        sortedList.foreach(block)
+      }
+    }
+  }
+  
+  def sortBy[N <% Ordered[N]](newKey: S => N) = Query(dataSet, filter, selector, newKey)
+
+  private def filtered = 
+    if (filter == null) 
+      null
+    else 
+      dataSet.where(filter)
+  
+  private def selection =
+    if (selector == null)
+      null
+    else {
+      val f = filtered
+      if (f == null)
+        dataSet.select(selector)
+      else
+        f.map(selector)
+    }
+  
+  private def sortedList = {
+    var list = s.toList
+    (list map sortKey zip list) sort (_._1 < _._1) map (_._2)
+  }
+}

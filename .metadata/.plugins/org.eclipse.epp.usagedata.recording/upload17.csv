@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1249011061045
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1249011061045
+java.vm.specification.version,sysinfo,,,"1.0",1249011061045
+java.vm.vendor,sysinfo,,,"Apple Inc.",1249011061045
+java.vm.version,sysinfo,,,"1.5.0_19-137",1249011061045
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1249011061053
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1249011061087
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1249011061087
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1249011061098
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.commons.ui",1249011061119
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.bugzilla.core",1249011061155
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.bugzilla.ui",1249011061169
+started,bundle,org.eclipse.ui.forms,3.4.0.v20090526,"org.eclipse.ui.forms",1249011061185
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.tasks.ui",1249011061252
+started,bundle,org.eclipse.mylyn.team.ui,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.team.ui",1249011061259
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.1.v20090722-0200-e3x,"org.eclipse.mylyn.monitor.ui",1249011061308
+started,bundle,ch.epfl.lamp.sdt.aspects,2.8.0.r18418-b20090731023634,"ch.epfl.lamp.sdt.aspects",1249011061567
+started,bundle,scala.tools.nsc,2.8.0.r18418-b20090731020235,"scala.tools.nsc",1249011061582
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1249011061669
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1249011078341
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1249011078351
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1249011078351
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1249011078457
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1249011078462
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1249011078636

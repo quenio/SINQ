@@ -1,0 +1,9 @@
+package org.sinq
+
+case class DataSet[T](i: Iterable[T]) {
+    
+  def map(expr: T => Any) = new Query(this, expr)
+
+  def foreach(expr: T => Unit) = i.foreach(expr)
+
+}

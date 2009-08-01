@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249143839028
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249143853352
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249143861720
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249143866293
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143873014
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143873784
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249143873827
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249143879274
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249143899948
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249143903406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143915434
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143916175
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249143916215
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249143931525
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249143959569
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143969487
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249143971007
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249143971048
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249143984802
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249144141498
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249144154868
+error,log,,,"tree: new Query(this, selector) java.lang.AssertionError: assertion failed: Product",1249144168786
+error,log,,,"tree: def map(selector: scala.Function1[T, I]) = new Query(this, selector) java.lang.AssertionError: assertion failed: Product",1249144168787
+error,log,,,"doTyper crash",1249144168788
+error,log,,,"tree: new Query(this, selector) java.lang.AssertionError: assertion failed: Product",1249144170456

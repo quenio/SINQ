@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095169879
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249095172846
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249095184262
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095184895
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095194522
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095197498
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095200576
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095203023
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095205869
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1249095210783
+error,log,,,"Error in JDT Core during reconcile",1249095210785
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095211677
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095215519
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249095220396
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249095252204
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095257314
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249095257886
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249095257952
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249095263973
+activated,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1249095269516
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249095269800
+activated,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1249095271589
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249095271887
+activated,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1249095272674
+activated,editor,ch.epfl.lamp.sdt.core,2.8.0.r18418-b20090731023640,"scala.tools.eclipse.ScalaEditor",1249095273008

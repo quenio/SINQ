@@ -1,0 +1,5 @@
+package org.sinq.examples
+
+object ImplicitsExample {
+  def main(args : Array[String]) : Unit = {}
+}

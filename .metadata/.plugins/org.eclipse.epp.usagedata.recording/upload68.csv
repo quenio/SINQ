@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Build compiler (scalac) crashed",1249101744421
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249101752255
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249101758254
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101768119
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1249101771103
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101775543
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1249101778621
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1249101779081
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1249101779189
+closed,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101780263
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101780457
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1249101780496
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101791610
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101792137
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249101792186
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101795355
+activated,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1249101801709
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101809071
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249101822586
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101831693
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101847168
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249101847972
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1249101848024
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249101856437
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1249101860753

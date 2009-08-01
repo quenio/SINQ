@@ -1,0 +1,32 @@
+package org.sinq.examples
+
+import scala.collection.mutable
+
+object ImplicitsExample {
+  
+  trait Query {
+    
+    class IntQuery(n: Int) extends Query {
+      
+    }
+    
+    def map(m: Int): Query = new Query(n + m)
+    
+    override def toString = n.toString
+    
+  }
+  
+  implicit def charToQuery(c: Char) = new Query(c.toInt)
+  implicit def setToQuery(set: mutable.Set[String]) = new Query(set.size)
+  
+  def main(args : Array[String]) : Unit = {
+      val c = 'c'
+      val q: Query = c.map(10);
+      println(q);
+      
+      val names = new mutable.Set[String] with Query;
+      // mutable.Set("Alice", "Debora", "Quenio")
+      val q2: Query = names.map(10);
+      println(q2);
+  }
+}

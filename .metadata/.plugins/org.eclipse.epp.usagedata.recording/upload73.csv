@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249102859424
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249102865766
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249102869097
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249102874946
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249102882153
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249102931277
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249102940021
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1249102949444
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249102951386
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249102979558
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1249102985901
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249102986817
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249102988339
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249102996559
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249102997742
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249103003625
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249103013293
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249103016143
+error,log,,,"Build compiler (scalac) crashed",1249103016293
+activated,editor,ch.epfl.lamp.sdt.core,2.7.5.final,"scala.tools.eclipse.Editor",1249103018095
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1249103023973
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1249103031368
+error,log,,,"Build compiler (scalac) crashed",1249103031570
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249103037332
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1249103037899

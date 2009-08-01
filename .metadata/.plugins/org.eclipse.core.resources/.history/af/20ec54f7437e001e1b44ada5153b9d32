@@ -1,0 +1,8 @@
+package org.sinq
+
+import scala.collection._
+
+class Query {
+
+  implicit def 
+}

@@ -1,0 +1,7 @@
+package org.sinq
+
+class Query[T](dataSet: DataSet[T], filter: T => Any) {
+
+  def foreach(block: T => Unit) = dataSet.select(selector).foreach(block)
+
+}

@@ -1,0 +1,6 @@
+package org.sinq
+
+class DataSet[T] {
+    
+  def map(expr: )
+}

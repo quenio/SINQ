@@ -1,0 +1,11 @@
+package org.sinq
+
+case class DataSet[T](i: Iterable[T]) {
+    
+  def map(filter: T => Any) = new Query(this, filter)
+
+  def foreach(block: T => Unit) = i.foreach(block)
+
+  def where()
+  
+}

@@ -1,0 +1,12 @@
+package org.sinq
+
+import scala.collection._
+
+class Query[T](i: Iterable[T]) {
+
+  
+  
+  implicit def iterableToQuery(i: Iterable[T]): Query = new Query(i)
+  
+  
+}

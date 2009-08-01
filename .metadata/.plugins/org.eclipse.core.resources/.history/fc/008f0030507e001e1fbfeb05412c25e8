@@ -1,0 +1,9 @@
+package org.sinq.examples
+
+object ImplicitsExample {
+  
+  def main(args : Array[String]) : Unit = {
+      val names = mutable.List("Alice", "Debora", "Quenio");
+      val q: Query = 
+  }
+}

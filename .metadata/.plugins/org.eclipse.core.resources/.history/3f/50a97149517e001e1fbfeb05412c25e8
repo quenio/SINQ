@@ -1,0 +1,20 @@
+package org.sinq.examples
+
+import scala.collection.mutable
+
+object ImplicitsExample {
+  
+  class Query {
+    
+    def map(n: Integer): Query = new Query
+    
+  }
+  
+  implicit def charToQuery[T](i: mutable.Set[T]) = new Query()
+  
+  def main(args : Array[String]) : Unit = {
+      //val names = mutable.Set("Alice", "Debora", "Quenio");
+      val c = 'c'
+      val q: Query = c.map(1);
+  }
+}

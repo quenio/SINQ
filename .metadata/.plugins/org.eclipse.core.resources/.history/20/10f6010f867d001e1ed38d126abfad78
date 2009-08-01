@@ -1,0 +1,23 @@
+package org.sinq.examples
+
+object ClassicExample {
+  def main(args : Array[String]) : Unit = {
+      val names = Array(
+          "Burke", "Connor", "Frank", 
+          "Everett", "Albert", "George", 
+          "Harris", "David");
+
+      // C# classic example:
+      // var query = from s in names
+      //             where s.Length == 5
+      //             select s.ToUpper();
+      val query = for(s <- names if s.length() == 5) yield s.toUpperCase(); 
+
+      for(item <- query) {
+        println(item);
+      }
+      for(item <- query) {
+        println(item);
+      }
+  }
+}
